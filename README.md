@@ -3,5 +3,4 @@
 ```OPEN AI```
 
 * GANTI APIKEY OPEN AI DI BAWAH
-
-👉 https://beta.openai.com/account/api-keys
+[https://beta.openai.com/account/api-keys]
