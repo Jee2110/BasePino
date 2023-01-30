@@ -1,5 +1,5 @@
 {
-  "name": "Pino-Js",
+  "name": "pinomodder",
   "version": "1.2.3",
   "description": "Jangan Ubah Nama Di Atas",
   "main": "next.js",
@@ -18,10 +18,10 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Pino-Js",
+  "author": "pinomodder",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "^4.3.0",
+    "@adiwajshing/baileys": "^4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^2.64.0",
     "axios": "^0.24.0",
@@ -76,10 +76,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KirBotz/SELF-KIR-TOD.git"
+    "url": "git+https://github.com/pinomodder/BasePino.git"
   },
   "bugs": {
-    "url": "https://github.com/KirBotz/SELF-KIR-TOD/issues"
+    "url": "https://github.com/pinomodder/BasePino/issues"
   },
-  "homepage": "https://github.com/KirBotz/SELF-KIR-TOD#readme"
+  "homepage": "https://github.com/pinomodder/BasePino#readme"
 }
