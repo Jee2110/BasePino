@@ -1,6 +1,6 @@
 {
   "name": "pinomodder",
-  "version": "1.2.3",
+  "version": "7.0.0",
   "description": "Jangan Ubah Nama Di Atas",
   "main": "next.js",
   "type": "commonjs",
@@ -21,7 +21,7 @@
   "author": "pinomodder",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "^4.4.0",
+    "@adiwajshing/baileys": "^4.3.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^2.64.0",
     "axios": "^0.24.0",
